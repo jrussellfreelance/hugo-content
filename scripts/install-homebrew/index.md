@@ -39,5 +39,5 @@ Usage:
 ```sh
 wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-homebrew.sh && \
     sudo chmod +x install-homebrew.sh && \
-    sudo bash install-homebrew.sh
+    bash install-homebrew.sh
 ```
