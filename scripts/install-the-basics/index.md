@@ -43,7 +43,5 @@ This script installs a basic set of tools and common dependencies.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-the-basics.sh && \
-    sudo chmod +x install-the-basics.sh && \
-    sudo bash install-the-basics.sh
+wget https://jrussell.xyz/install-the-basics && sudo bash install-the-basics
 ```

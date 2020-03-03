@@ -34,7 +34,5 @@ This script installs yarn package manager.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-yarn.sh && \
-    sudo chmod +x install-yarn.sh && \
-    sudo bash install-yarn.sh
+wget https://jrussell.xyz/install-yarn && sudo bash install-yarn
 ```

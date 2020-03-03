@@ -35,7 +35,5 @@ This script installs Node.js 12 LTS.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-node12.sh && \
-    sudo chmod +x install-node12.sh && \
-    sudo bash install-node12.sh
+wget https://jrussell.xyz/install-node12 && sudo bash install-node12
 ```

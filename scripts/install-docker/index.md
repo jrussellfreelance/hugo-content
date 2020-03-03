@@ -35,7 +35,5 @@ This script installs docker and docker-compose.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-docker.sh && \
-    sudo chmod +x install-docker.sh && \
-    sudo bash install-docker.sh
+wget https://jrussell.xyz/install-docker && sudo bash install-docker
 ```

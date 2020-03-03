@@ -33,9 +33,7 @@ This script recursively prompts you for a git URL, cloning the repo into the cur
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/git-scripts/recursive-git-clone.sh && \
-    sudo chmod +x recursive-git-clone.sh && \
-    sudo bash recursive-git-clone.sh
+wget https://jrussell.xyz/recursive-git-clone && bash recursive-git-clone
 ```
 Full Script:
 ```sh

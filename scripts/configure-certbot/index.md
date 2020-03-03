@@ -35,7 +35,5 @@ This script allows you to install and configure certbot as well as the Nginx and
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/web-server-scripts/configure-certbot.sh && \
-    sudo chmod +x configure-certbot.sh && \
-    sudo bash configure-certbot.sh
+wget https://jrussell.xyz/configure-certbot && sudo bash configure-certbot
 ```

@@ -37,7 +37,5 @@ It also installs `gcc` through brew as well as the `patchelf` apt package.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-homebrew.sh && \
-    sudo chmod +x install-homebrew.sh && \
-    bash install-homebrew.sh
+wget https://jrussell.xyz/install-homebrew && bash install-homebrew
 ```

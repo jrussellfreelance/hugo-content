@@ -37,7 +37,5 @@ It prompts the current user for the new user's information.
 
 Usage:
 ```sh
-wget https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/setup-scripts/create-sudo-user.sh && \
-    sudo chmod +x create-sudo-user.sh && \
-    sudo bash create-sudo-user.sh
+wget https://jrussell.xyz/create-sudo-user && sudo bash create-sudo-user
 ```
