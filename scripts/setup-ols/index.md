@@ -36,5 +36,5 @@ It also updates the port mapping and updates the admin password, printing it to 
 
 Usage:
 ```sh
-wget https://jrussell.xyz/setup-ols && sudo bash setup-ols
+wget https://jrussell.io/setup-ols && sudo bash setup-ols
 ```

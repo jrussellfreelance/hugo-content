@@ -33,7 +33,7 @@ This script recursively prompts you for a git URL, cloning the repo into the cur
 
 Usage:
 ```sh
-wget https://jrussell.xyz/recursive-git-clone && bash recursive-git-clone
+wget https://jrussell.io/recursive-git-clone && bash recursive-git-clone
 ```
 Full Script:
 ```sh

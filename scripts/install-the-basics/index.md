@@ -43,5 +43,5 @@ This script installs a basic set of tools and common dependencies.
 
 Usage:
 ```sh
-wget https://jrussell.xyz/install-the-basics && sudo bash install-the-basics
+wget https://jrussell.io/install-the-basics && sudo bash install-the-basics
 ```
