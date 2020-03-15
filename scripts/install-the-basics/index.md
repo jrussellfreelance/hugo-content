@@ -40,8 +40,9 @@ This script installs a basic set of tools and common dependencies.
  - build-essential
  - apt-transport-https
  - software-properties-common
-
-Usage:
+Usage Syntax:
 ```sh
 wget https://jrussell.io/install-the-basics && sudo bash install-the-basics
 ```
+Usage Example:
+<script id="asciicast-310411" src="https://asciinema.org/a/310411.js" async></script>

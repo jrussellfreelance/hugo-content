@@ -5,7 +5,7 @@ tags:
 - Linux Administration
 - Bash
 - Raspberry Pi
-date: "2020-01-20T00:00:00Z"
+date: "2020-03-10T00:00:00Z"
 
 external_link: ""
 

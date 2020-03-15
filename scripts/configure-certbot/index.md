@@ -33,7 +33,10 @@ slides: ""
 ---
 This script allows you to install and configure certbot as well as the Nginx and Cloudflare addons.
 
-Usage:
+Usage Syntax:
 ```sh
 wget https://jrussell.io/configure-certbot && sudo bash configure-certbot
 ```
+
+Usage Example:
+<script id="asciicast-309740" src="https://asciinema.org/a/309740.js" async></script>
