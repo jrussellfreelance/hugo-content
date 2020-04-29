@@ -34,7 +34,7 @@ This script updates the apt cache, performs upgrades, and removes unneeded packa
 
 Usage:
 ```sh
-wget https://jrussell.io/setup-apt && sudo bash setup-apt
+curl -sSL https://jrussell.io/setup-apt | sudo bash
 ```
 Full Script:
 ```sh
