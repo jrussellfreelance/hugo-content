@@ -5,7 +5,7 @@ tags:
 - Linux Administration
 - Bash
 - Database Administration
-date: "2020-03-10T00:00:00Z"
+date: "2020-05-10T00:00:00Z"
 
 external_link: ""
 
@@ -23,9 +23,9 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
-This script installs MongoDB.
+This script installs MongoDB 3.2.
 
 Usage:
 ```sh
-wget https://jrussell.io/install-mongo && sudo bash install-mongo
+curl -sSL https://jrussell.io/install-mongo | sudo bash
 ```
