@@ -35,7 +35,7 @@ This script allows you to install and configure certbot as well as the Nginx and
 
 Usage Syntax:
 ```sh
-wget https://jrussell.io/configure-certbot && sudo bash configure-certbot
+bash <(curl -sSL https://jrussell.io/configure-certbot)
 ```
 
 Usage Example:
