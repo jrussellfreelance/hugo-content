@@ -18,17 +18,6 @@ links:
   icon_pack: fas
   name: Download Script
   url: https://raw.githubusercontent.com/JacFearsome/bash-scripts/master/install-scripts/install-the-basics.sh
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
 This script installs a basic set of tools and common dependencies.
  - git
@@ -42,7 +31,7 @@ This script installs a basic set of tools and common dependencies.
  - software-properties-common
 Usage Syntax:
 ```sh
-wget https://jrussell.io/install-the-basics && sudo bash install-the-basics
+curl -SSL https://jrussell.io/install-the-basics | sudo bash
 ```
 Usage Example:
 <script id="asciicast-310411" src="https://asciinema.org/a/310411.js" async></script>
